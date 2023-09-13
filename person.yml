@@ -1,3 +1,10 @@
 person:
   name:
-    first_name: Stig
+    first_name: Rakel
+    last_name: Spektakel
+  age: 28
+  class: Java
+  start_year: 2022
+  hobbies:
+    - Träna
+    - Äta
