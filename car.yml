@@ -1,6 +1,9 @@
 car:
   manufacturer: volvo
   model: V40
-  year: 1994
-  attributes: whut
+  year: "1994"
+  attributes:
+    - Snabb
+    - Säker
+    - Cool
   reg: ABC123
