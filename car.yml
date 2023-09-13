@@ -1,2 +1,6 @@
 car:
   manufacturer: volvo
+  model: V40
+  year: 1994
+  attributes: whut
+  reg: ABC123
