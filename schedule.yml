@@ -1,4 +1,7 @@
 schedule:
+  year: "2023"
   program: java
   lessons:
-    - date: "2022-02-01"
+    - 
+      date: "2022-02-01"
+      description: Blobb
