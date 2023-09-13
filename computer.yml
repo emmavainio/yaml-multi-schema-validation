@@ -1,3 +1,13 @@
 computer:
-  cpu:
+  cpu: 
+    manufacturer: blob
     cores: 8
+    frequency: 2
+  memory:
+    manufacturer: blobb
+    size: 1000
+    type: blob
+  disk:
+    manufacturer: blob
+    size: 100
+    type: blobb
